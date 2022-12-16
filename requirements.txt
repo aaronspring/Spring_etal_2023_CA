@@ -1,0 +1,8 @@
+xarray
+zarr
+cftime
+intake_esm
+xskillscore
+matplotlib
+seaborn
+cartopy
