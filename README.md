@@ -12,9 +12,16 @@ This repo is setup for scientists interested to reproduce our `Spring et al., 20
 
 - Mauritsen, T., Bader, J., Becker, T., Behrens, J., Bittner, M., Brokopf, R., Brovkin, V., Claussen, M., Crueger, T., Esch, M., Fast, I., Fiedler, S., Fläschner, D., Gayler, V., Giorgetta, M., Goll, D. S., Haak, H., Hagemann, S., Hedemann, C., … Roeckner, E. (2019). Developments in the MPI‐M Earth System Model version 1.2 (MPI‐ESM1.2) and Its Response to Increasing CO 2. Journal of Advances in Modeling Earth Systems, 11(4), 998–1038. doi: 10/gftpps
 
-See `model_setup`
+- Fiedler, S., Wyser, K., Rogelj, J., & van Noije, T. (2020). Radiative effects of reduced aerosol emissions during the COVID-19 pandemic and the future recovery [Preprint]. Climatology (Global Change). doi: 10.1002/essoar.10504704.1
 
-## Packages used mostly
+- Forster, P. M., Forster, H. I., Evans, M. J., Gidden, M. J., Jones, C. D., Keller, C. A., Lamboll, R. D., Quéré, C. L., Rogelj, J., Rosen, D., Schleussner, C.-F., Richardson, T. B., Smith, C. J., & Turnock, S. T. (2020). Current and future global climate impacts resulting from COVID-19. Nature Climate Change, 1–7. doi: 10/gg7s7w
+
+- Jones, C. D., Hickman, J. E., Rumbold, S. T., Walton, J., Lamboll, R. D., Skeie, R. B., Fiedler, S., Forster, P. M., Rogelj, J., Abe, M., Botzet, M., Calvin, K., Cassou, C., Cole, J. N. S., Davini, P., Deushi, M., Dix, M., Fyfe, J. C., Gillett, N. P., … Ziehn, T. (2021). The Climate Response to Emissions Reductions Due to COVID-19: Initial Results From CovidMIP. Geophysical Research Letters, 48(8), e2020GL091883. doi: 10/gjpjdj
+
+- Lamboll, R. D., Jones, C. D., Skeie, R. B., Fiedler, S., Samset, B. H., Gillett, N. P., Rogelj, J., & Forster, P. M. (2021). Modifying emissions scenario projections to account for the effects of COVID-19: protocol for CovidMIP. Geoscientific Model Development, 14(6), 3683–3695. doi: 10.5194/gmd-14-3683-2021
+
+
+## Packages used
 
 -   model output aggregation: `cdo`, `pymistral`
 -   analysis: `xarray`
